@@ -1,13 +1,13 @@
 {
-  "main.css": "/bookify/static/css/main.7c3c1f25.chunk.css",
-  "main.js": "/bookify/static/js/main.77f33bd8.chunk.js",
-  "main.js.map": "/bookify/static/js/main.77f33bd8.chunk.js.map",
-  "runtime~main.js": "/bookify/static/js/runtime~main.acb52fa1.js",
-  "runtime~main.js.map": "/bookify/static/js/runtime~main.acb52fa1.js.map",
-  "static/js/2.1a22258d.chunk.js": "/bookify/static/js/2.1a22258d.chunk.js",
-  "static/js/2.1a22258d.chunk.js.map": "/bookify/static/js/2.1a22258d.chunk.js.map",
-  "index.html": "/bookify/index.html",
-  "precache-manifest.4540d2551b2f07eebdf1586dcd1bfb93.js": "/bookify/precache-manifest.4540d2551b2f07eebdf1586dcd1bfb93.js",
-  "service-worker.js": "/bookify/service-worker.js",
-  "static/css/main.7c3c1f25.chunk.css.map": "/bookify/static/css/main.7c3c1f25.chunk.css.map"
+  "main.css": "//schapke.me/booklet/static/css/main.7c3c1f25.chunk.css",
+  "main.js": "//schapke.me/booklet/static/js/main.67f83a67.chunk.js",
+  "main.js.map": "//schapke.me/booklet/static/js/main.67f83a67.chunk.js.map",
+  "runtime~main.js": "//schapke.me/booklet/static/js/runtime~main.a2501485.js",
+  "runtime~main.js.map": "//schapke.me/booklet/static/js/runtime~main.a2501485.js.map",
+  "static/js/2.1e1ab744.chunk.js": "//schapke.me/booklet/static/js/2.1e1ab744.chunk.js",
+  "static/js/2.1e1ab744.chunk.js.map": "//schapke.me/booklet/static/js/2.1e1ab744.chunk.js.map",
+  "index.html": "//schapke.me/booklet/index.html",
+  "precache-manifest.862852505dda096dbec423394c80ddd2.js": "//schapke.me/booklet/precache-manifest.862852505dda096dbec423394c80ddd2.js",
+  "service-worker.js": "//schapke.me/booklet/service-worker.js",
+  "static/css/main.7c3c1f25.chunk.css.map": "//schapke.me/booklet/static/css/main.7c3c1f25.chunk.css.map"
 }
