@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "//schapke.me/booklet/precache-manifest.862852505dda096dbec423394c80ddd2.js"
+  "/booklet/precache-manifest.0aa9595846a1ccca00fe8ad9b04f813c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("//schapke.me/booklet/index.html", {
+workbox.routing.registerNavigationRoute("/booklet/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

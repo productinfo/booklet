@@ -1,13 +1,13 @@
 {
-  "main.css": "//schapke.me/booklet/static/css/main.7c3c1f25.chunk.css",
-  "main.js": "//schapke.me/booklet/static/js/main.67f83a67.chunk.js",
-  "main.js.map": "//schapke.me/booklet/static/js/main.67f83a67.chunk.js.map",
-  "runtime~main.js": "//schapke.me/booklet/static/js/runtime~main.a2501485.js",
-  "runtime~main.js.map": "//schapke.me/booklet/static/js/runtime~main.a2501485.js.map",
-  "static/js/2.1e1ab744.chunk.js": "//schapke.me/booklet/static/js/2.1e1ab744.chunk.js",
-  "static/js/2.1e1ab744.chunk.js.map": "//schapke.me/booklet/static/js/2.1e1ab744.chunk.js.map",
-  "index.html": "//schapke.me/booklet/index.html",
-  "precache-manifest.862852505dda096dbec423394c80ddd2.js": "//schapke.me/booklet/precache-manifest.862852505dda096dbec423394c80ddd2.js",
-  "service-worker.js": "//schapke.me/booklet/service-worker.js",
-  "static/css/main.7c3c1f25.chunk.css.map": "//schapke.me/booklet/static/css/main.7c3c1f25.chunk.css.map"
+  "main.css": "/booklet/static/css/main.7c3c1f25.chunk.css",
+  "main.js": "/booklet/static/js/main.39ff2f6f.chunk.js",
+  "main.js.map": "/booklet/static/js/main.39ff2f6f.chunk.js.map",
+  "runtime~main.js": "/booklet/static/js/runtime~main.315b04bd.js",
+  "runtime~main.js.map": "/booklet/static/js/runtime~main.315b04bd.js.map",
+  "static/js/2.1e1ab744.chunk.js": "/booklet/static/js/2.1e1ab744.chunk.js",
+  "static/js/2.1e1ab744.chunk.js.map": "/booklet/static/js/2.1e1ab744.chunk.js.map",
+  "index.html": "/booklet/index.html",
+  "precache-manifest.0aa9595846a1ccca00fe8ad9b04f813c.js": "/booklet/precache-manifest.0aa9595846a1ccca00fe8ad9b04f813c.js",
+  "service-worker.js": "/booklet/service-worker.js",
+  "static/css/main.7c3c1f25.chunk.css.map": "/booklet/static/css/main.7c3c1f25.chunk.css.map"
 }
