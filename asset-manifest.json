@@ -1,0 +1,13 @@
+{
+  "main.css": "/bookify/static/css/main.7c3c1f25.chunk.css",
+  "main.js": "/bookify/static/js/main.77f33bd8.chunk.js",
+  "main.js.map": "/bookify/static/js/main.77f33bd8.chunk.js.map",
+  "runtime~main.js": "/bookify/static/js/runtime~main.acb52fa1.js",
+  "runtime~main.js.map": "/bookify/static/js/runtime~main.acb52fa1.js.map",
+  "static/js/2.1a22258d.chunk.js": "/bookify/static/js/2.1a22258d.chunk.js",
+  "static/js/2.1a22258d.chunk.js.map": "/bookify/static/js/2.1a22258d.chunk.js.map",
+  "index.html": "/bookify/index.html",
+  "precache-manifest.4540d2551b2f07eebdf1586dcd1bfb93.js": "/bookify/precache-manifest.4540d2551b2f07eebdf1586dcd1bfb93.js",
+  "service-worker.js": "/bookify/service-worker.js",
+  "static/css/main.7c3c1f25.chunk.css.map": "/bookify/static/css/main.7c3c1f25.chunk.css.map"
+}
