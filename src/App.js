@@ -46,7 +46,7 @@ class App extends Component {
           <>
             <CssBaseline />
             <MuiThemeProvider theme={theme}>
-                <Router>
+                <Router basename='/booklet'>
                     <ScrollTop>
                       <Route exact path="/" component={Home} />
                       <Route path="/categories" component={Categories} />
