@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import posed from 'react-pose'
+
 import Grid from '@material-ui/core/Grid'
 import { withStyles, classes } from '@material-ui/core/styles'
 
@@ -59,25 +59,11 @@ const style = {
     }
 
 }
-
-const Box = posed.div({
-    pressable: true,
-    init: {
-        scale: 1,
-        boxShadow: '0px 0px 0px rgba(0,0,0,0)'
-    },
-    press: {
-        scale: .8,
-        boxShadow: '0px 2px 5px rgba(0,0,0,0.1)'
-    },
-})
-
 const Book = (props) => {
     const { classes, book } = props;
     const text = book.textSnippet && book.textSnippet.substr(0, 100).concat('...')
 
     return (
-        <Box>
             <Grid container justify="center" spacing={8} className={classes.card}>
               {book.image_url && (
                 <Grid item xs={4} sm={3} md={2}>
@@ -103,7 +89,6 @@ const Book = (props) => {
                 </Grid>
                 <Grid item xs={12}><div style={{float:'right', padding: 10}}>{props.children}</div></Grid>
             </Grid>
-        </Box>
     )
 }
 

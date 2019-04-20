@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom'
 import { withStyles } from '@material-ui/core/styles'
 import Fab from '@material-ui/core/Fab'
 import Arrow from '@material-ui/icons/ArrowBackIosSharp'
+import SmallIcon from './SmallIcon'
 
 
 const Box = posed.div({
@@ -41,11 +42,6 @@ const styles = {
         cursor: 'pointer',
         margin: 10,
     },
-    images: {
-        width: 50,
-        margin: '0 5px',
-        cursor: 'pointer'
-    },
     arrow: {
         fontSize: 44,
         color: '#444',
@@ -63,8 +59,8 @@ const Navigation = (props) => {
             </div>
             {route1 && route2 && (
             <div className={classes.tools}>
-                <Box style={{display:'inline-block'}}><Link to={route1.link}><img alt='icon for the link' className={classes.images} src={route1.image}/></Link></Box>
-                <Box style={{display:'inline-block'}}><Link to={route2.link}><img alt='icon for the link' className={classes.images} src={route2.image}/></Link></Box>
+                <SmallIcon link={route1.link} image={route1.image} />
+                <SmallIcon link={route2.link} image={route2.image} />
             </div>
             )}
         </nav>
